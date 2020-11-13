@@ -28,18 +28,17 @@ $ npm run build
 $ npm start
 $ yarn run build
 $ yarn start
-``` 
+```    
 <img src="./devvsbuild.jpg" width="940px" height="587px">   
-* * *   
 
-### 구조적 차이
-<img src="./vuevsnuxt.png" width="1040px" height="500px">   
-
-### 요약   
+### 차이점  
 * 프로젝트 전반적인 폴더 구조가 조금 다르지만 대체로 비슷하게 동작합니다.   
 * 라우터 셋업이 달라집니다. 디렉토리 구조에 따라 자동생성하는 것을 디폴트로 합니다.   
 * 개발 및 배포 환경이 조금 달라집니다.   
-* Layout을 컴포넌트의 프로퍼티로써 사용할 수 있습니다.   
+* Layout을 컴포넌트의 프로퍼티로써 사용할 수 있습니다.     
+
+### 구조적 차이
+<img src="./vuevsnuxt.png" width="1040px" height="500px">  
 
 ### 풀어야할 숙제
 NUXT 관련 front 예상 이슈 검토사항.   
