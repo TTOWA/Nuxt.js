@@ -30,7 +30,8 @@ $ yarn run build
 $ yarn start
 ``` 
 <img src="./devvsbuild.jpg" width="940px" height="587px">   
-* * *
+* * *   
+
 ### 구조적 차이
 <img src="./vuevsnuxt.png" width="1040px" height="500px">   
 
@@ -41,8 +42,8 @@ $ yarn start
 * Layout을 컴포넌트의 프로퍼티로써 사용할 수 있습니다.   
 
 ### 풀어야할 숙제
-NUXT 관련 front 예상 이슈 검토사항.
-* * *
+NUXT 관련 front 예상 이슈 검토사항.   
+* * *   
 0. jquery 관련 이벤트 맵핑
 1. youtube 여러개 영상 제어.(youtube api사용)
 2. mp4 영상제어
