@@ -11,24 +11,25 @@ SEO 등의 문제로 CSR이 아닌 SSR 웹을 구축해야 하는 경우에 유�
 $ npx create-nuxt-app nuxt_app
 $ yarn create-nuxt-app nuxt_app
 ```
-<img src="./nuxt_new.jpg" width="731px" height="412px">      
-참고 : [프로젝트 설정 방법](https://velog.io/@brviolet/Nuxt.js-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-1.-%EC%84%A4%EC%B9%98)      
+<img src="./nuxt_new.jpg" width="731px" height="318px">   
+
+참고 : [프로젝트 설정 방법](https://velog.io/@brviolet/Nuxt.js-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-1.-%EC%84%A4%EC%B9%98)   
 
 ### Nuxt.js 실행
 해당 폴더(nuxt_app)로 이동후 실행 합니다.
-개발용   
+개발용      
 ```
 $ npm run dev
 $ yarn run dev
 ```
-배포용   
+배포용      
 ```
 $ npm run build
 $ npm start
 $ yarn run build
 $ yarn start
 ```
-<img src="./devvsbuild.jpg" width="1124px" height="940px">
+<img src="./devvsbuild.jpg" width="587px" height="940px">
 
 ### 구조적 차이
 <img src="./vuevsnuxt.png" width="1610px" height="646px">   
