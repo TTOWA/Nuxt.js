@@ -28,8 +28,8 @@ $ npm run build
 $ npm start
 $ yarn run build
 $ yarn start
-```
-<img src="./devvsbuild.jpg" width="587px" height="940px">
+``` 
+<img src="./devvsbuild.jpg" width="587px" height="940px">   
 
 ### 구조적 차이
 <img src="./vuevsnuxt.png" width="1610px" height="646px">   
