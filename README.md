@@ -29,9 +29,8 @@ $ npm start
 $ yarn run build
 $ yarn start
 ``` 
-핫 리로드(코드 수정에 따라 실시간으로 반영되는 환경)만 가능한 Vue.js와는 달리, Nuxt의 경우 핫 리로드와 로컬 빌드 및 서빙 두 가지가 모두 가능합니다.
 <img src="./devvsbuild.jpg" width="940px" height="587px">   
-
+* * *
 ### 구조적 차이
 <img src="./vuevsnuxt.png" width="1040px" height="500px">   
 
@@ -40,13 +39,6 @@ $ yarn start
 * 라우터 셋업이 달라집니다. 디렉토리 구조에 따라 자동생성하는 것을 디폴트로 합니다.   
 * 개발 및 배포 환경이 조금 달라집니다.   
 * Layout을 컴포넌트의 프로퍼티로써 사용할 수 있습니다.   
-
-### 목차   
-* 구조적 차이   
-* 개발 환경 및 배포에서의 차이   
-* 라우팅 방식의 차이   
-* 메타 태그   
-* Layout   
 
 ### 풀어야할 숙제
 NUXT 관련 front 예상 이슈 검토사항.
