@@ -34,13 +34,19 @@ $ yarn start
 ### 구조적 차이
 <img src="./vuevsnuxt.png" width="1610px" height="646px">   
 
-
-* 넉스트(Nuxt)?     
-Nuxt.js는 Vue.js 프레임워크를 기반으로 [SSR(Server Side Rendering)](https://yamoo9.gitbook.io/vue-a11y-seo/seo#ssr) 웹 페이지를 만들 수 있도록 해 주는 라이브러리입니다.     
-검색엔진 최적화(SEO)등의 문제로 CSR(Client Side Rendering)이 아닌 SSR(Server Side Rendering) 웹을 구축해야 하는 경우에 사용할 수 있습니다.  
-참고 : [SSR & CSR비교](https://yunzema.tistory.com/103)   
-
-
+  
+### 풀어야할 숙제
+NUXT 관련 front 예상 이슈 검토사항.
+* * *
+0. jquery 관련 이벤트 맵핑
+1. youtube 여러개 영상 제어.(youtube api사용)
+2. mp4 영상제어
+3. slick 배너 롤링 관련 이슈.
+4. naver, 카카오, google map 지원 관련.
+5. 주소검색 다음 api 관련
+6. 동적컨텐츠 로드시 event관련.(click등)
+7. sns공유시 url 관련 이슈.(서버랜더링)
+* * *
 
 ### 참고 문서   
 * [공식 가이드](https://nuxtjs.org/docs/2.x/get-started/installation)   
