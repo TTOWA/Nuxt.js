@@ -32,7 +32,7 @@ $ yarn start
 <img src="./devvsbuild.jpg" width="940px" height="587px">   
 
 ### 구조적 차이
-<img src="./vuevsnuxt.png" width="1610px" height="646px">   
+<img src="./vuevsnuxt.png" width="1040px" height="500px">   
 
   
 ### 풀어야할 숙제
