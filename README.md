@@ -11,7 +11,7 @@ SEO 등의 문제로 CSR이 아닌 SSR 웹을 구축해야 하는 경우에 유�
 $ npx create-nuxt-app nuxt_app
 $ yarn create-nuxt-app nuxt_app
 ```
-<img src="./Img/nuxt_new.jpg" width="732px" height="412px">   
+<img src="./images/nuxt_new.jpg" width="732px" height="412px">   
 
 참고 : [프로젝트 설정 방법](https://velog.io/@brviolet/Nuxt.js-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-1.-%EC%84%A4%EC%B9%98)   
 
@@ -29,7 +29,7 @@ $ npm start
 $ yarn run build
 $ yarn start
 ```    
-<img src="../img/devvsbuild.jpg" width="940px" height="587px">   
+<img src="./images/devvsbuild.jpg" width="940px" height="587px">   
 
 ### 차이점  
 * 프로젝트 전반적인 폴더 구조가 조금 다르지만 대체로 비슷하게 동작합니다.   
@@ -43,7 +43,7 @@ SSR의 가장 중요한 목적 중의 하나인 SEO에 필요한 메타태그를
 참고 :[메타 태그 ](https://ko.nuxtjs.org/docs/2.x/components-glossary/pages-head/)
 
 ### 구조적 차이
-<img src="./img/vuevsnuxt.png" width="1040px" height="500px">  
+<img src="./images/vuevsnuxt.png" width="1040px" height="500px">  
 
 ### 풀어야할 숙제
 NUXT 관련 front 예상 이슈 검토사항.   
