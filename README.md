@@ -29,7 +29,7 @@ $ npm start
 $ yarn run build
 $ yarn start
 ```    
-<img src="./img/devvsbuild.jpg" width="940px" height="587px">   
+<img src="../img/devvsbuild.jpg" width="940px" height="587px">   
 
 ### 차이점  
 * 프로젝트 전반적인 폴더 구조가 조금 다르지만 대체로 비슷하게 동작합니다.   
